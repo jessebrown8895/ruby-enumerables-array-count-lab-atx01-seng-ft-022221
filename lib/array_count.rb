@@ -11,5 +11,5 @@ def count_empty_strings(array)
   element = 0 
   array.count |element| 
   element == ""
-end
-end
+end 
+end 
